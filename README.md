@@ -1,8 +1,8 @@
 # interpolation_py
-A python DSP interpolation example that uses numpy and matplotlib 
+A DSP interpolation example that uses python's numpy and matplotlib 
 
 ### Source code
-https://github.com/louipr/matplotlib_py
+https://github.com/louipr/interpolation_py
 
 
 ### Project Dependencies 
